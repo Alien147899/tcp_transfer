@@ -1,0 +1,4 @@
+com.example.lantransfer.test.app-androidTest-0 C:\tcp_transfer\android-app\app\build\generated\res\resValues\androidTest\debug
+com.example.lantransfer.test.app-mergeDebugAndroidTestResources-1 C:\tcp_transfer\android-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.lantransfer.test.app-mergeDebugAndroidTestResources-2 C:\tcp_transfer\android-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.lantransfer.test.app-debugAndroidTest-3 C:\tcp_transfer\android-app\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

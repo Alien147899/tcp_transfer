@@ -1,0 +1,7 @@
+C:\tcp_transfer\desktop-gui\dist\desktop-v13\LanTransfer.Gui.exe
+C:\tcp_transfer\desktop-gui\dist\desktop-v13\lan_transfer.exe
+C:\tcp_transfer\desktop-gui\dist\desktop-v13\settings.json
+C:\tcp_transfer\desktop-gui\dist\desktop-v13\LanTransfer.Gui.dll
+C:\tcp_transfer\desktop-gui\dist\desktop-v13\LanTransfer.Gui.deps.json
+C:\tcp_transfer\desktop-gui\dist\desktop-v13\LanTransfer.Gui.runtimeconfig.json
+C:\tcp_transfer\desktop-gui\dist\desktop-v13\LanTransfer.Gui.pdb

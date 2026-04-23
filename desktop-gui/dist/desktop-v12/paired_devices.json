@@ -1,0 +1,9 @@
+{
+  "devices": [
+    {
+      "device_id": "android-134a76a16d23464f8a98d72594934bfa",
+      "host": "10.48.211.208",
+      "port": 9000
+    }
+  ]
+}

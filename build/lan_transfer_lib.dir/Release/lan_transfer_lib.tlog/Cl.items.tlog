@@ -1,0 +1,15 @@
+C:\tcp_transfer\src\app\file_receiver.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\file_receiver.obj
+C:\tcp_transfer\src\app\file_sender.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\file_sender.obj
+C:\tcp_transfer\src\common\file_utils.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\file_utils.obj
+C:\tcp_transfer\src\common\protocol.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\protocol.obj
+C:\tcp_transfer\src\config\settings.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\settings.obj
+C:\tcp_transfer\src\discovery\connection_code.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\connection_code.obj
+C:\tcp_transfer\src\discovery\code_lookup_service.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\code_lookup_service.obj
+C:\tcp_transfer\src\discovery\device_discovery.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\device_discovery.obj
+C:\tcp_transfer\src\discovery\presence_announcer.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\presence_announcer.obj
+C:\tcp_transfer\src\pairing\pair_store.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\pair_store.obj
+C:\tcp_transfer\src\pairing\pairing_manager.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\pairing_manager.obj
+C:\tcp_transfer\src\security\path_sanitizer.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\path_sanitizer.obj
+C:\tcp_transfer\src\security\rate_limiter.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\rate_limiter.obj
+C:\tcp_transfer\src\security\security_manager.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\security_manager.obj
+C:\tcp_transfer\src\net\socket.cpp;C:\tcp_transfer\build\lan_transfer_lib.dir\Release\socket.obj

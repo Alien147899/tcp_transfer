@@ -1,0 +1,33 @@
+# Build outputs
+build/
+desktop-gui/bin/
+desktop-gui/obj/
+desktop-gui/dist/
+android-app/app/build/
+android-app/build/
+android-app/.gradle/
+android-app/.idea/
+
+# Generated packages
+*.zip
+*.apk
+*.aab
+*.exe
+*.dll
+*.pdb
+*.lib
+*.obj
+*.log
+
+# Runtime local data
+downloads/
+device_info.json
+paired_devices.json
+settings.json
+blacklist.json
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
