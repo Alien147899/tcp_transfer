@@ -1,8 +1,23 @@
 # LAN File Transfer
 
-Minimal phase-1 LAN file transfer tool built with C++17 and CMake.
+Cross-device LAN file transfer tool built with C++17, .NET WinForms, and Android Kotlin.
 
-## Build
+## Download
+
+Prebuilt desktop and Android packages are published on the GitHub Releases page:
+
+https://github.com/Alien147899/tcp_transfer/releases
+
+Recommended downloads:
+
+1. Windows desktop: download `LanTransfer.Desktop.v13.zip`, unzip it, then run `LanTransfer.Gui.exe`.
+2. Android client: download `app-debug.apk`, transfer it to an Android phone, then install it manually.
+
+The repository itself contains the source code. For normal use, downloading from Releases is easier than building from source.
+
+## Build From Source
+
+### C++ Core
 
 ```bash
 cmake -S . -B build
