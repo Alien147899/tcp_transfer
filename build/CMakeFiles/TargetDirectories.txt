@@ -1,4 +1,0 @@
-C:/tcp_transfer/build/CMakeFiles/lan_transfer_lib.dir
-C:/tcp_transfer/build/CMakeFiles/lan_transfer.dir
-C:/tcp_transfer/build/CMakeFiles/ALL_BUILD.dir
-C:/tcp_transfer/build/CMakeFiles/ZERO_CHECK.dir

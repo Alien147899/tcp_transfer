@@ -1,7 +1,0 @@
-C:\tcp_transfer\desktop-gui\dist\desktop-v12\LanTransfer.Gui.exe
-C:\tcp_transfer\desktop-gui\dist\desktop-v12\lan_transfer.exe
-C:\tcp_transfer\desktop-gui\dist\desktop-v12\settings.json
-C:\tcp_transfer\desktop-gui\dist\desktop-v12\LanTransfer.Gui.dll
-C:\tcp_transfer\desktop-gui\dist\desktop-v12\LanTransfer.Gui.deps.json
-C:\tcp_transfer\desktop-gui\dist\desktop-v12\LanTransfer.Gui.runtimeconfig.json
-C:\tcp_transfer\desktop-gui\dist\desktop-v12\LanTransfer.Gui.pdb

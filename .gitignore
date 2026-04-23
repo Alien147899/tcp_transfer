@@ -1,0 +1,49 @@
+# C++ / CMake build outputs
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.tlog
+*.obj
+*.lib
+*.pdb
+*.exe
+*.dll
+*.recipe
+*.lastbuildstate
+*.log
+
+# .NET / Windows GUI build outputs
+desktop-gui/bin/
+desktop-gui/obj/
+desktop-gui/dist/
+
+# Android / Gradle build outputs
+android-app/.gradle/
+android-app/build/
+android-app/app/build/
+*.apk
+*.aab
+
+# Local Android SDK path
+android-app/local.properties
+
+# Runtime local data
+downloads/
+**/downloads/
+device_info.json
+paired_devices.json
+settings.json
+blacklist.json
+
+# Packaged release artifacts belong in GitHub Releases
+*.zip
+
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
